@@ -1,49 +1,67 @@
-====================
-     09-04-2026     
-====================
-PT DWI LARAS MANUNGGAL
-NOTES:
-- [✅] BARANG SUDAH DIAMBIL
-- [❌] BARANG DITOLAK
-- [➖] DALAM PROSES RETUR
+   FILE: dilamo.txt
+ UPDATE: 13-04-2026 +0700 (version 0.1.0-u04gldp-oye-bb-dilamo-pbt13)
+SHA-256: 6c39c5eb2e075beaa5842317489cfc7f3e154bd7e5303614fc67103b29a52379
 
-                 <!-- NOMOR BATCH HILANG -->            
-DILAMO BEEF PEPPERONI 250GR                            |  1 PCS | 26-07-2026 | [➖]
 
-                    <!-- BATCH 001 -->                 
-DILAMO BEEF BREAKFAST 1KG                              |  1 PCS | 02-08-2026 | [➖]
-DILAMO BEEF BREAKFAST 500GR                            |  4 PCS | 30-07-2026 | [➖]
-DILAMO BAKSO SAPI REGULAR-M ISI 50                     |  1 PCS | 31-07-2026 | [➖]
-DILAMO SMOKED BEEF 1KG                                 |  1 PCS | 14-07-2026 | [➖]
-DILAMO SMOKED BEEF 250GR                               |  3 PCS | 06-07-2026 | [➖]
-DILLY SOSIS MINI 500GR ISI 12PCS                       |  1 PCS | 07-07-2026 | [➖]
+  ______                             __       __                        __     
+ /      \                           /  \     /  |                      /  |    
+/$$$$$$  | __    __   ______        $$  \   /$$ |  ______    ______   _$$ |_   
+$$ |  $$ |/  |  /  | /      \       $$$  \ /$$$ | /      \  /      \ / $$   |  
+$$ |  $$ |$$ |  $$ |/$$$$$$  |      $$$$  /$$$$ | $$$$$$  |/$$$$$$  |$$$$$$/   
+$$ |  $$ |$$ |  $$ |$$    $$ |      $$ $$ $$/$$ | /    $$ |$$ |  $$/   $$ | __ 
+$$ \__$$ |$$ \__$$ |$$$$$$$$/       $$ |$$$/ $$ |/$$$$$$$ |$$ |        $$ |/  |
+$$    $$/ $$    $$ |$$       |      $$ | $/  $$ |$$    $$ |$$ |        $$  $$/ 
+ $$$$$$/   $$$$$$$ | $$$$$$$/       $$/      $$/  $$$$$$$/ $$/          $$$$/  
+          /  \__$$ |                                                           
+          $$    $$/                    𝑷𝑹𝑨𝑲𝑻𝑰𝑺  𝑯𝑬𝑴𝑨𝑻  𝑩𝑬𝑹𝑲𝑼𝑨𝑳𝑰𝑻𝑨𝑺                                        
+           $$$$$$/                                                             
 
-                    <!-- BATCH 002 -->                 
-DILAMO BEEF BRATWURST 450 GR                           |  1 PCS | 26-07-2026 | [➖]
-DILAMO BEEF BREAKFAST 1KG                              |  6 PCS | 02-08-2026 | [➖]
-DILAMO BEEF BREAKFAST 500GR                            |  1 PCS | 30-07-2026 | [➖]
-DILAMO BEEF COCKTAIL 500GR MERAH                       |  6 PCS | 07-08-2026 | [➖]
-DILAMO BEEF COCKTAIL 900GR                             |  3 PCS | 20-08-2026 | [➖]
 
-                    <!-- BATCH 003 -->                 
-DILAMO BEEF BREAKFAST 1KG                              |  5 PCS | 02-08-2026 | [➖]
-DILAMO BEEF BREAKFAST 500GR                            |  1 PCS | 30-07-2026 | [➖]
-DILAMO BEEF COCKTAIL 500GR MERAH                       | 20 PCS | 07-08-2026 | [➖]
-DILAMO BEEF COCKTAIL 900GR                             | 17 PCS | 20-08-2026 | [➖]
+================
+     NOTES:     
+================
+ [V] = BARANG SUDAH DIRETUR / BARANG SUDAH DIPINDAHKAN KE GUDANG RETUR ([—]URATE)
+ [X] = BARANG TIDAK BISA DIRETUR / BARANG TIDAK (ATAU BELUM) DIPINDAHKAN KE GUDANG RETUR ([—]URATE)
+ [—] = BARANG DALAM PROSES RETUR / BARANG DALAM PROSES PEMINDAHAN KE GUDANG RETUR ([—]URATE)
+ [?] = DATA ATAU SYARAT RETUR BARANG BELUM DIPERBARUI
+ BTC = NOMOR BATCH
+ RTR = RETUR
+ ACC = ACCURATE
 
-                    <!-- BATCH 004 -->                 
-DILAMO BEEF BRATWURST 450 GR                           |  3 PCS | 26-07-2026 | [➖]
-DILAMO BEEF BREAKFAST 1KG                              |  1 PCS | 02-08-2026 | [➖]
-DILAMO BEEF BREAKFAST 500GR                            |  1 PCS | 30-07-2026 | [➖]
-DILAMO BEEF COCKTAIL 500GR MERAH                       | 15 PCS | 07-08-2026 | [➖]
-DILAMO BEEF COCKTAIL 900GR                             |  6 PCS | 20-08-2026 | [➖]
-DILLY SOSIS BAKAR 500GR ISI 8                          |  1 PCS | 07-07-2026 | [➖]
-DILLY SOSIS KEJU 500GR ISI 12PCS                       |  2 PCS | 19-06-2026 | [➖]
-
-                    <!-- BATCH 005 -->                 
-DILAMO BEEF COCKTAIL 500GR MERAH                       |  8 PCS | 07-08-2026 | [➖]
-DILAMO BEEF COCKTAIL 900GR                             |  8 PCS | 20-08-2026 | [➖]
-
-   file: dilamo.txt
-  sha-1: c3ca22dda4c00e89d5439a3ebff3008e920e117e
-sha-256: 6c39c5eb2e075beaa5842317489cfc7f3e154bd7e5303614fc67103b29a52379
+=================================
+     PT DWI LARAS TRITUNGGAL     
+=================================
+------------------------------------------------------------------------------------------------
+                      NAMA BARANG                      |    QTY |  EXP DATE  | BTC | RTR | ACC |
+------------------------------------------------------------------------------------------------
+DILAMO BEEF BREAKFAST 1KG                              |  1 PCS |    08-2026 | 001 | [—] | [—] |
+DILAMO BEEF BREAKFAST 500GR                            |  7 PCS |    07-2026 | 001 | [—] | [—] |
+DILAMO BEEF PEPPERONI 250GR                            |  1 PCS |    07-2026 | 001 | [—] | [—] |
+DILAMO BAKSO SAPI REGULAR-M ISI 50                     |  1 PCS |    07-2026 | 001 | [—] | [—] |
+DILAMO SMOKED BEEF 1KG                                 |  1 PCS |    07-2026 | 001 | [—] | [—] |
+DILAMO SMOKED BEEF 250GR                               |  3 PCS |    07-2026 | 001 | [—] | [—] |
+DILLY SOSIS MINI 500GR ISI 12PCS                       |  1 PCS |    07-2026 | 001 | [—] | [—] |
+------------------------------------------------------------------------------------------------
+DILAMO BEEF BRATWURST 450 GR                           |  2 PCS |    07-2026 | 002 | [—] | [—] |
+DILAMO BEEF BREAKFAST 1KG                              |  6 PCS |    08-2026 | 002 | [—] | [—] |
+DILAMO BEEF BREAKFAST 500GR                            |  1 PCS |    07-2026 | 002 | [—] | [—] |
+DILAMO BEEF COCKTAIL 500GR MERAH                       |  7 PCS |    08-2026 | 002 | [—] | [—] |
+DILAMO BEEF COCKTAIL 900GR                             |  6 PCS |    08-2026 | 002 | [—] | [—] |
+------------------------------------------------------------------------------------------------
+DILAMO BEEF BREAKFAST 1KG                              |  5 PCS |    08-2026 | 003 | [—] | [—] |
+DILAMO BEEF COCKTAIL 500GR MERAH                       | 27 PCS |    08-2026 | 003 | [—] | [—] |
+DILAMO BEEF COCKTAIL 900GR                             | 17 PCS |    08-2026 | 003 | [—] | [—] |
+------------------------------------------------------------------------------------------------             
+DILAMO BEEF BRATWURST 450 GR                           |  3 PCS |    07-2026 | 004 | [—] | [—] |
+DILAMO BEEF BREAKFAST 1KG                              |  1 PCS |    08-2026 | 004 | [—] | [—] |
+DILAMO BEEF BREAKFAST 500GR                            |  1 PCS |    07-2026 | 004 | [—] | [—] |
+DILAMO BEEF COCKTAIL 500GR MERAH                       |  8 PCS |    08-2026 | 004 | [—] | [—] |
+DILAMO BEEF COCKTAIL 900GR                             |  7 PCS |    08-2026 | 004 | [—] | [—] |
+DILLY SOSIS BAKAR 500GR ISI 8                          |  1 PCS |    07-2026 | 004 | [—] | [—] |
+DILLY SOSIS KEJU 500GR ISI 12PCS                       |  2 PCS |    06-2026 | 004 | [—] | [—] |
+------------------------------------------------------------------------------------------------
+DILAMO BEEF COCKTAIL 500GR MERAH                       |  8 PCS |    08-2026 | 005 | [—] | [—] |
+DILAMO BEEF COCKTAIL 900GR                             | 11 PCS |    08-2026 | 005 | [—] | [—] |
+------------------------------------------------------------------------------------------------
+DILAMO BEEF COCKTAIL 900GR                             |  3 PCS |    08-2026 | 006 | [—] | [—] |
+------------------------------------------------------------------------------------------------
