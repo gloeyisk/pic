@@ -1,5 +1,5 @@
    FILE: dilamo.txt
- UPDATE: 13-04-2026 +0700 (version 0.1.0-u04gldp-oye-bb-dilamo-pbt13)
+ UPDATE: 13-04-2026 +0700 (version 0.1.0-u01h1gldp-oye-bb-dilamo-pbt13)
 SHA-256: 6c39c5eb2e075beaa5842317489cfc7f3e154bd7e5303614fc67103b29a52379
 
 
@@ -20,17 +20,17 @@ $$    $$/ $$    $$ |$$       |      $$ | $/  $$ |$$    $$ |$$ |        $$  $$/
 ================
      NOTES:     
 ================
- [V] = BARANG SUDAH DIRETUR / BARANG SUDAH DIPINDAHKAN KE GUDANG RETUR ([—]URATE)
- [X] = BARANG TIDAK BISA DIRETUR / BARANG TIDAK (ATAU BELUM) DIPINDAHKAN KE GUDANG RETUR ([—]URATE)
- [—] = BARANG DALAM PROSES RETUR / BARANG DALAM PROSES PEMINDAHAN KE GUDANG RETUR ([—]URATE)
+ [V] = BARANG SUDAH DIRETUR / BARANG SUDAH DIPINDAHKAN KE GUDANG RETUR (ACCURATE)
+ [X] = BARANG TIDAK BISA DIRETUR / BARANG TIDAK (ATAU BELUM) DIPINDAHKAN KE GUDANG RETUR (ACCURATE)
+ [—] = BARANG DALAM PROSES RETUR / BARANG DALAM PROSES PEMINDAHAN KE GUDANG RETUR (ACCURATE)
  [?] = DATA ATAU SYARAT RETUR BARANG BELUM DIPERBARUI
  BTC = NOMOR BATCH
  RTR = RETUR
  ACC = ACCURATE
 
-=================================
-     PT DWI LARAS TRITUNGGAL     
-=================================
+================================
+     PT DWI LARAS MANUNGGAL     
+================================
 ------------------------------------------------------------------------------------------------
                       NAMA BARANG                      |    QTY |  EXP DATE  | BTC | RTR | ACC |
 ------------------------------------------------------------------------------------------------
