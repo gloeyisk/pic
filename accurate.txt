@@ -1,0 +1,182 @@
+   FILE: accurate.txt
+ UPDATE: 20-04-2026 +0700 (version 0.1.0-u10420-oye-bb-accurate-all)
+SHA-256: d2ca3f3a8d3bdfd8fcac80c92a9197c1e8c9c2232c5974325c55b51d10223ed9
+
+
+  ______                             __       __                        __     
+ /      \                           /  \     /  |                      /  |    
+/$$$$$$  | __    __   ______        $$  \   /$$ |  ______    ______   _$$ |_   
+$$ |  $$ |/  |  /  | /      \       $$$  \ /$$$ | /      \  /      \ / $$   |  
+$$ |  $$ |$$ |  $$ |/$$$$$$  |      $$$$  /$$$$ | $$$$$$  |/$$$$$$  |$$$$$$/   
+$$ |  $$ |$$ |  $$ |$$    $$ |      $$ $$ $$/$$ | /    $$ |$$ |  $$/   $$ | __ 
+$$ \__$$ |$$ \__$$ |$$$$$$$$/       $$ |$$$/ $$ |/$$$$$$$ |$$ |        $$ |/  |
+$$    $$/ $$    $$ |$$       |      $$ | $/  $$ |$$    $$ |$$ |        $$  $$/ 
+ $$$$$$/   $$$$$$$ | $$$$$$$/       $$/      $$/  $$$$$$$/ $$/          $$$$/  
+          /  \__$$ |                                                           
+          $$    $$/                    𝑷𝑹𝑨𝑲𝑻𝑰𝑺  𝑯𝑬𝑴𝑨𝑻  𝑩𝑬𝑹𝑲𝑼𝑨𝑳𝑰𝑻𝑨𝑺                                        
+           $$$$$$/                                                             
+
+
+================
+     NOTES:     
+================
+ [*] = NAMA SUPPLIER/VENDOR
+ [!] = SUPPLIER/VENDOR YANG TIDAK MENERIMA RETUR BARANG
+ [V] = BARANG SUDAH DIPINDAHKAN KE GUDANG RETUR (ACCURATE) / BARANG BISA (SUDAH) DITUKAR
+ [X] = BARANG TIDAK BISA DIRETUR / BARANG TIDAK BISA DITUKAR
+ [—] = BARANG DALAM PROSES PENUKARAN
+ [?] = DATA ATAU SYARAT RETUR BARANG BELUM DIPERBARUI
+ ACC = GUDANG RETUR (ACCURATE)
+ SWP = PENUKARAN (TUKAR GULING)
+
+================
+     FROZEN      
+================
+-----------------------------------------------------------------------------------
+                        NAMA BARANG                          |    QTY | ACC | SWP |
+-----------------------------------------------------------------------------------
+[*] PT CHAROEN POKPHAND INDONESIA                            //                   |
+AKUMO CHICKEN NUGGET 1KG                                     |  1 PCS | [V] | [—] |
+ASIMO SOSIS AYAM KOMBINASI 1KG [B]                           |  1 PCS | [V] | [—] |
+CHAMP CHICKEN SAUSAGES 1KG                                   |  4 PCS | [V] | [—] |
+FIESTA CHICKEN SAUSAGE 300GR                                 |  3 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT CHAROEN POKPHAND INDONESIA (FRESH)                    //                   |
+CP AYAM UTUH GRILLER 07-08 700GR [O8]                        |  1 PCS | [V] | [—] |
+CP CHICKEN AYAM POTONG 10 (1 - 1,1 KG) [O8]                  |  2 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] CV KREASI INTI USAHA                                     //                   |
+TAMMA TORTILLA UK 20 ISI 20 LEMBAR 900 GR                    |  3 PCS | [V] | [—] |
+TAMMA TORTILLA UK 23 ISI 20 LEMBAR 1100 GR                   |  3 PCS | [V] | [—] |
+TAMMA TORTILLA UK 25 ISI 20 LEMBAR 1400GR                    |  2 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT HIJRAH GIZI HEWANI                                    //                   |
+KANZLER BEEF COCKTAIL 250 GR                                 |  5 PCS | [V] | [—] |
+KANZLER BEEF WIENER SOSIS SAPI 360G                          |  1 PCS | [V] | [—] |
+KANZLER BLACKPEPPER FRANKFURTER 300GR ISI 6                  |  1 PCS | [V] | [—] |
+KANZLER BOCKWURST 360GR                                      |  1 PCS | [V] | [—] |
+KANZLER CHEESE BRATWURST 360GR                               |  1 PCS | [V] | [—] |
+KANZLER CHEESE FRANKFURTER 360GR                             |  4 PCS | [V] | [—] |
+KANZLER CRISPY CHICKEN NUGGET 450GR                          |  1 PCS | [V] | [—] |
+KANZLER GARLIC FRANKFURTER 300GR ISI 6                       |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT JAPFA FOOD INDONESIA                                  //                   |
+SO GOOD AYAM UTUH POTONG 10 [O8]                             |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*][!] CV VELYN FROZEN & CHILLED                             //                   |
+BERNARDI HORECA BEEF BREAKFAST VP 1KG                        |  1 PCS | [V] | [—] |
+BERNARDI PLAIN ROLL (ROTI KADET) 300GR                       |  1 PCS | [V] | [—] |
+VITALIA BURGER SAPI 250GR ISI 10                             |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] CV TITAN MEAT INDONESIA                                  //                   |
+BOSSCA SOSIS BAKAR 500GR ISI 6+1                             |  3 PCS | [V] | [—] |
+BOSSCA SOSIS SAPI KEJU 500GR ISI 10                          |  2 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT BOLESCA FOODINDO                                      //                   |
+MISTER MAX SOSIS BAKAR ISI 10+2 500GR                        | 25 PCS | [V] | [—] |
+MISTER MAX SOSIS BAKAR ISI 6+2 500GR                         |  2 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT ANUGERAH BOGA FROZINDO                                //                   |
+HARMONI SOSIS SAPI BAKAR JAWARA 450GR ISI 10 + 2             |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT AGRO BOGA UTAMA                                       //                   |
+RANCH HARVEST KENTANG GORENG SHOESTRING 1KG                  | 10 PCS | [X] | [—] |
+-----------------------------------------------------------------------------------
+[*] CV ZAYCO BOGA ALIFA                                      //                   |
+ARCHIZ KEJU MOZZARELLA 200GR                                 |  6 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] CITETA                                                   //                   |
+CITETA BOLA BOLA AYAM ISI 15                                 |  1 PCS | [V] | [—] |
+CITETA CIRENG AYAM TAICHAN ISI 6 [O0]                        |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] AUFA'S KITCHEN                                           //                   |
+AUFA'S BOLA UBI ISI KEJU COKLAT [B][O0]                      |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT WONOKOYO JAYA CORP                                    //                   |
+GOLDSTAR CRISPY CHICKEN NUGGET 500GR                         |  1 PCS | [V] | [X] |
+-----------------------------------------------------------------------------------
+[*][!] PT SANJAYA FOOD                                       //                   |
+SANJAYA OTAK-OTAK IKAN 1KG                                   | 19 PCS | [V] | [X] |
+-----------------------------------------------------------------------------------
+
+
+=============
+     DRY     
+=============
+-----------------------------------------------------------------------------------
+                        NAMA BARANG                          |    QTY | ACC | SWP |
+-----------------------------------------------------------------------------------
+[*] PT HARAPAN MAKMUR JAYAPERKASA                            //                   |
+ROSE BRAND BIHUN GORENG SPECIAL 60GR                         |  4 PCS | [V] | [—] |
+ROSE BRAND KUNING GULA TEBU 1 KG [O8]                        |  1 PCS | [V] | [—] |
+ROSE BRAND TEPUNG BERAS PUTIH 500GR [B]                      |  1 PCS | [V] | [—] |
+ROSE BRAND TEPUNG KETAN PUTIH 500GR [B]                      |  1 PCS | [V] | [—] |
+ROSE BRAND TEPUNG TAPIOKA 500GR [B]                          |  3 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT FKS PANGAN NUSANTARA                                  //                   |
+BOLA DELI TEPUNG BERAS 500GR [B]                             |  1 PCS | [V] | [—] |
+CAP TANAM JAGUNG BIHUN JAGUNG 320GR [B]                      |  2 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] CV AMPUH                                                 //                   |
+MAMAYO MAYONAIS ORIGINAL 200GR                               |  1 PCS | [V] | [—] |
+EURO GOURMET SAUS SAMBAL EXTRA HOT 1000GR                    |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT JNJ BERKAT LESTARI                                    //                   |
+MC LEWIS SPAGHETTI SAUCE 1KG                                 |  6 PCS | [V] | [—] |
+MC LEWIS SPAGHETTI SAUCE 310GR                               |  2 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT MITRA SARANA PURNAMA                                  //                   |
+DELMONTE EXTRA HOT 24SACHET x 8GR                            |  1 PCS | [V] | [—] |
+MAESTRO SAUS MAYO PREMIUM 1KG                                |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT MAKMUR MANDIRI PRATAMA                                //                   |
+ROYCO BUMBU KALDU RASA SAPI 94GR                             |  3 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT INDOMARCO ADI PRIMA                                   //                   |
+BOGASARI TEPUNG TERIGU LENCANA MERAH 1KG                     |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] ND SUPPLIER (NDS)                                        //                   |
+KOKI JEMPOL BUMBU STEAMBOAT 60GR                             |  7 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT SINARMAS DISTRIBUSI NUSANTARA                         //                   |
+GAGA BAKMI - MI KERING GANDUM 200G                           |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*][!] PT FITRAFOOD INTERNATIONAL                            //                   |
+KIKKOMAN BLACKPEPPER TERIYAKI SAUCE 300GR                    |  1 PCS | [V] | [X] |
+-----------------------------------------------------------------------------------
+[*][!] CV TRISTAR SUKSES MAKMUR                              //                   |
+SUNBAY SOYA BEAN DRINK 320ML [B]                             |  1 PCS | [V] | [X] |
+-----------------------------------------------------------------------------------
+[*] BINTANG SARI                                             //                   |
+BAWANG GORENG BINTANG 100GR [O0]                             |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] KHR BERKAH ABADI                                         //                   |
+KHR BREADCRUMBS TEPUNG ROTI MIX 1 KG                         |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT PANGAN LESTARI                                        //                   |
+CHITATO LITE RASA RUMPUT LAUT 68GR [B]                       |  1 PCS | [V] | [—] |
+CHITATO RASA SAPI PANGGANG 68GR [B]                          |  1 PCS | [V] | [—] |
+HOME VERMICELLI SOUN LONGKOU 250GR                           |  3 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT PUTRI DAYA USAHATAMA                                  //                   |
+INDOFOOD TABURI BUMBU TABUR SERBAGUNA RASA BARBEKIU 25GR     |  1 PCS | [V] | [—] |
+INDOFOOD TABURI BUMBU TABUR SERBAGUNA RASA GAS PEDAS 25GR    |  8 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT ARTA DWITUNGGAL ABADI                                 //                   |
+KOBE BREADCRUMBS 200GR                                       | 11 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] CV MAKMUR MANDIRI                                        //                   |
+JAYS PARSLEY FLAKES 20G                                      |  1 PCS | [V] | [—] |
+JAYS CHILI POWDER 65G                                        |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT BENTENG PERSADA MULTINDO                              //                   |
+BAMBOE BUMBU INSTAN GULE 35GR                                |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] PT SUMBER PERINTIS RAGAM PANGAN                          //                   |
+MAMASUKA MIE HOT LAVA RASA AYAM PEDAS 89GR                   | 11 PCS | [V] | [—] |
+MAMASUKA TEPUNG BAKWAN KRISPI UDANG 170GR                    |  5 PCS | [V] | [—] |
+MAMASUKA TEPUNG TEMPURA KRISPI ALA RESTO 900GR               |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
+[*] GNJ                                                      //                   |
+GNJ BASRENG PEDAS DAUN JERUK 250 GR                          |  1 PCS | [V] | [—] |
+-----------------------------------------------------------------------------------
