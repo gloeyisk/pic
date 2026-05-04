@@ -1,6 +1,6 @@
-   FILE: retur2.txt
- UPDATE: 20-04-2026 +0700 (version 0.1.0-u10420-oye-bb-return-phase2)
-SHA-256: d2ca3f3a8d3bdfd8fcac80c92a9197c1e8c9c2232c5974325c55b51d10223ed9
+    FILE: retur2.txt
+  UPDATE: 05-05-2026 +0700 (version 0.1.3-oye-bb-return-phase2)
+ACCURATE: v1.0.1#4102-1044828 [6Y99MP8ML]
 
 
   ______                             __       __                        __     
@@ -21,7 +21,7 @@ $$    $$/ $$    $$ |$$       |      $$ | $/  $$ |$$    $$ |$$ |        $$  $$/
      NOTES:     
 ================
  [*] = NAMA SUPPLIER/VENDOR
- [!] = SUPPLIER/VENDOR YANG TIDAK MENERIMA RETUR BARANG
+ [!] = SUPPLIER/VENDOR YANG PERLU NEGOSIASI UNTUK MELAKUKAN RETUR / TUKAR GULING BARANG
  [V] = BARANG SUDAH DIRETUR / BARANG SUDAH DIPINDAHKAN KE GUDANG RETUR (ACCURATE) / BARANG BISA (SUDAH) DITUKAR
  [X] = BARANG TIDAK BISA DIRETUR / BARANG TIDAK (BELUM) DIPINDAHKAN KE GUDANG RETUR (ACCURATE) / BARANG TIDAK BISA DITUKAR
  [—] = BARANG DALAM PROSES RETUR / BARANG DALAM PROSES PEMINDAHAN KE GUDANG RETUR (ACCURATE)
@@ -36,42 +36,63 @@ $$    $$/ $$    $$ |$$       |      $$ | $/  $$ |$$    $$ |$$ |        $$  $$/
 --------------------------------------------------------------------------------------------------------------------
                         NAMA BARANG                          |    QTY |  EXP DATE  |   KONDISI   | RTR | ACC | SWP |
 --------------------------------------------------------------------------------------------------------------------
+[*][!] PT CHAROEN POKPHAND INDONESIA                         //                                                    |
+AKUMO CHICKEN NUGGET 1KG                                     |  2 PCS | 26-01-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
+AKUMO CHICKEN STICK NUGGET 500GR                             |  1 PCS | 06-03-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
+ASIMO CHICKEN NUGGET KOMBINASI 1000GR [B]                    |  1 PCS | 05-03-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
+ASIMO SOSIS AYAM KOMBINASI 1KG [B]                           |  1 PCS | 25-11-2026 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+CHAMP CHICKEN NUGGET KOMBINASI 450GR                         |  1 PCS | 18-02-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
+CHAMP CHICKEN NUGGET KOMBINASI 900GR                         |  1 PCS | 10-01-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
+CHAMP CHICKEN NUGGET STICK 250GR                             |  1 PCS | 13-03-2027 |  PENARIKAN  | [ ] | [ ] | [ ] |
+CHAMP CHICKEN SAUSAGE 375 GR                                 |  1 PCS | 07-04-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+CHAMP CHICKEN SAUSAGES 1KG                                   |  2 PCS | 19-12-2026 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+CHAMP CRUNCHY NUGGET 225GR                                   |  1 PCS | 13-02-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
+FIESTA CHICKEN SAUSAGE 300GR                                 |  3 PCS | 24-12-2026 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+FIESTA READY TO SERVE BEEF BULGOGI 300GR                     |  1 PCS | 05-02-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
+--------------------------------------------------------------------------------------------------------------------
+[*][!] PT CHAROEN POKPHAND INDONESIA (FRESH)                 //                                                    |
+CP AYAM UTUH GRILLER 09-10 900GR [O8]                        |  1 PCS | 24-03-2027 |  PENARIKAN  | [ ] | [ ] | [ ] |
+--------------------------------------------------------------------------------------------------------------------
 [*][!] CV VELYN FROZEN & CHILLED                             //                                                    |
+BERNARDI HORECA BEEF BREAKFAST 1KG PREMIUM                   |  1 PCS | 23-01-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
 BERNARDI HORECA BEEF BREAKFAST VP 1KG                        |  1 PCS | 14-11-2026 | LEPAS VAKUM | [ ] | [ ] | [ ] |
 BERNARDI PLAIN ROLL (ROTI KADET) 300GR                       |  1 PCS | 06-08-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
+BERNARDI SOSIS COCKTAIL MERAH HORECA 250GR                   |  1 PCS | 02-03-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
 VITALIA BURGER SAPI 250GR                                    |  5 PCS | 29-01-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
 VITALIA BURGER SAPI 280GR                                    |  7 PCS | 14-02-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
-[*] PT CHAROEN POKPHAND INDONESIA                            //                                                    |
-ASIMO CHICKEN NUGGET KOMBINASI 1000GR [B]                    |  1 PCS | 05-03-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
-CHAMP CHICKEN NUGGET STICK 250GR                             |  1 PCS | 13-03-2027 |  PENARIKAN  | [ ] | [ ] | [ ] |
-CHAMP CHICKEN SAUSAGE 375 GR                                 |  1 PCS | 07-04-2027 |  PENARIKAN  | [ ] | [ ] | [ ] |
-CHAMP CHICKEN SAUSAGES 1KG                                   |  1 PCS | 19-01-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
-FIESTA CHICKEN SAUSAGE 300GR                                 |  3 PCS | 24-12-2026 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+[*] PT HIJRAH GIZI HEWANI                                    //                                                    |
+KANZLER BEEF COCKTAIL 250 GR                                 |  3 PCS | 14-01-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+KANZLER BOCKWURST 360GR                                      |  1 PCS | 26-01-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+KANZLER GARLIC FRANKFURTER 300GR ISI 6                       |  3 PCS | 27-01-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+KANZLER SINGLES BAKSO HOT 48GR                               |  2 PCS | 18-05-2026 |   EXPIRED   | [ ] | [ ] | [ ] |
+KANZLER SINGLES SOSIS KEJU 65GR                              |  1 PCS | 06-02-2026 |   EXPIRED   | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
-[*] PT CHAROEN POKPHAND INDONESIA (FRESH)                    //                                                    |
-CP AYAM UTUH GRILLER 09-10 900GR [O8]                        |  1 PCS | 24-03-2027 |  PENARIKAN  | [ ] | [ ] | [ ] |
+[*] CV TITAN MEAT INDONESIA                                  //                                                    |
+BOSSCA SOSIS BAKAR 500GR ISI 6+1                             |  3 PCS | 24-03-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+BOSSCA SOSIS SAPI KEJU 500GR ISI 10                          |  2 PCS | 26-04-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+--------------------------------------------------------------------------------------------------------------------
+[*] PT BOLESCA FOODINDO                                      //                                                    |
+DELI MAX SMOKED BEEF 500GR [B]                               |  2 PCS |    01-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+MISTER MAX SOSIS BAKAR ISI 10+2 500GR                        | 24 PCS |    11-2026 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+MISTER MAX SOSIS BAKAR ISI 6+2 500GR                         |  3 PCS |    11-2026 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+--------------------------------------------------------------------------------------------------------------------
+[*] PT ANUGERAH BOGA FROZINDO                                //                                                    |
+SUMBER SELERA BAKSO SERBAGUNA 650GR ISI 50 BUTIR             |  1 PCS | 05-09-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
+--------------------------------------------------------------------------------------------------------------------
+[*] PT NUTRINDO RANA SEJAHTERA                               //                                                    |
+AYOMA KORNET COIN 450GR ISI 40 [B]                           |  1 PCS | 14-04-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+AYOMA ROLADE SAPI 225GR                                      |  2 PCS | 16-04-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
+--------------------------------------------------------------------------------------------------------------------
+[*] AZZAHRA                                                  //                                                    |
+AZZAHRA LUMPIA KEBAB PREMIUM RASA ORIGINAL ISI 8PCS [B]      |  1 PCS | 16-08-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
+AZZAHRA LUMPIA KEBAB PREMIUM RASA ORIGINAL ISI 8PCS [B]      |  1 PCS |    mm-yyyy | RUSAK FISIK | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
 [*] PT PANGAN LESTARI                                        //                                                    |
 FINNA KULIT LUMPIA 21,5X21,5CM 40                            |  1 PCS | 28-01-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
-[*] CV TITAN MEAT INDONESIA                                  //                                                    |
-BOSSCA SOSIS BAKAR 500GR ISI 6+1                             |  1 PCS | 24-03-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
---------------------------------------------------------------------------------------------------------------------
-[*] PT DWI LARAS MANUNGGAL                                   //                                                    |
-DILAMO BEEF BREAKFAST 500GR                                  |  1 PCS | 23-06-2026 | LEPAS VAKUM | [ ] | [ ] | [ ] |
-DILAMO BEEF COCKTAIL 500GR MERAH                             |  1 PCS | 19-08-2026 | LEPAS VAKUM | [ ] | [ ] | [ ] |
-DILLY SOSIS KEJU 500GR ISI 12PCS                             |  1 PCS | 21-08-2026 | LEPAS VAKUM | [ ] | [ ] | [ ] |
---------------------------------------------------------------------------------------------------------------------
-[*] PT HIJRAH GIZI HEWANI                                    //                                                    |
-KANZLER BEEF COCKTAIL 250 GR                                 |  2 PCS | 14-01-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
-KANZLER FRANK COCKTAIL 500GR                                 |  1 PCS | 27-02-2027 | LEPAS VAKUM | [ ] | [ ] | [ ] |
---------------------------------------------------------------------------------------------------------------------
-[*] AZZAHRA                                                  //                                                    |
-AZZAHRA LUMPIA KEBAB PREMIUM RASA EXTRA HOT ISI 8PCS [B]     |  1 PCS |    mm-yyyy | RUSAK FISIK | [ ] | [ ] | [ ] |
---------------------------------------------------------------------------------------------------------------------
-[*] TROY                                                     //                                                    |
-BEEF SLICE LOW FAT PREMIUM 500GR (TR)                        |  1 PCS |    12-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
+[*] CV ZAYCO BOGA ALIFA                                      //                                                    |
+ARCHIZ KEJU MOZZARELLA 200GR                                 |  2 PCS |    12-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
 
 
@@ -82,42 +103,42 @@ BEEF SLICE LOW FAT PREMIUM 500GR (TR)                        |  1 PCS |    12-20
                         NAMA BARANG                          |    QTY |  EXP DATE  |   KONDISI   | RTR | ACC | SWP |
 --------------------------------------------------------------------------------------------------------------------
 [*] PT FKS PANGAN NUSANTARA                                  //                                                    |
+BOLA DELI GULA HALUS 1KG [B]                                 |  1 PCS | 18-03-2028 | RUSAK FISIK | [ ] | [ ] | [ ] |
 BOLA DELI TEPUNG BERAS 500GR [B]                             |  1 PCS | 04-01-2028 | RUSAK FISIK | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
 [*] CV AMPUH                                                 //                                                    |
-EURO GOURMET ORIGINAL MAYONNAISE 1KG                         |  1 PCS | 08-10-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
-EURO GOURMET SAUS SAMBAL 1000GR                              |  1 PCS | 11-08-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
-EURO GOURMET SAUS SAMBAL EXTRA HOT 1000GR                    |  1 PCS | 22-11-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
+EURO GOURMET ORIGINAL MAYONNAISE 1KG                         |  1 PCS | 08-10-2026 | RUSAK FISIK | [V] | [—] | [—] |
+EURO GOURMET SAUS SAMBAL 1000GR                              |  1 PCS | 11-08-2026 | RUSAK FISIK | [V] | [—] | [—] |
+EURO GOURMET SAUS SAMBAL EXTRA HOT 1000GR                    |  1 PCS | 22-11-2026 | RUSAK FISIK | [V] | [—] | [—] |
+FINNA SAMBAL EKSTRA PEDAS 1KG                                |  1 PCS | 01-04-2027 | RUSAK FISIK | [ ] | [—] | [—] |
+MAMAYO MAYONAIS ORIGINAL 1KG (M.E)                           |  3 PCS | 22-11-2026 | RUSAK FISIK | [V] | [—] | [—] |
+--------------------------------------------------------------------------------------------------------------------
+[*] PT INDOMARCO ADI PRIMA                                   //                                                    |
+BOGASARI TEPUNG TERIGU LENCANA MERAH 1KG                     |  1 PCS | 01-10-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
 [*] PT HARAPAN MAKMUR JAYAPERKASA                            //                                                    |
-ROSE BRAND BIHUN JAGUNG 320GR                                |  2 PCS | 07-02-2028 | RUSAK FISIK | [ ] | [ ] | [ ] |
+ROSE BRAND BIHUN JAGUNG 320GR                                |  5 PCS | 07-02-2028 | RUSAK FISIK | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
 [*] CV SANTOSA BERKAH MANDIRI                                //                                                    |
 SUTRA OPAK SAMPEU NAIK KELAS BBQ BOX 150gr [B]               |  1 PCS | 19-03-2026 |   EXPIRED   | [ ] | [ ] | [ ] |
 SUTRA OPAK SAMPEU NAIK KELAS KEJU BOX 150gr [B]              |  2 PCS | 30-04-2026 |   EXPIRED   | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
-[*] KERUPUK DDN                                              //                                                    |
-DDN KERUPUK GURIH RASA UDANG ISI 10 PCS                      |  1 PCS | 20-04-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
+[*] PT MAKMUR MANDIRI UTAMA                                  //                                                    |
+LA FONTE ELBOW MACARONI NO.206 225GR                         |  1 PCS | 18-02-2028 | RUSAK FISIK | [ ] | [ ] | [ ] |
+--------------------------------------------------------------------------------------------------------------------
+[*] PT PANJUNAN                                              //                                                    |
+KORNETKU CORNED BEEF 340GR                                   |  1 PCS | 22-01-2028 | RUSAK FISIK | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
 [*] PT SUMBER PERINTIS RAGAM PANGAN                          //                                                    |
 MAMASUKA TEPUNG BUMBU KRISPI ALA RESTO 900GR                 |  2 PCS | 26-02-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
-MAMASUKA TEPUNG TEMPURA KRISPI ALA RESTO 900GR               |  1 PCS | 13-02-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
+MAMASUKA TEPUNG TEMPURA KRISPI ALA RESTO 900GR               |  3 PCS | 13-02-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
 [*] PT PUTRI DAYA USAHATAMA                                  //                                                    |
 INDOFOOD RACIK BUMBU SPESIAL SOTO AYAM 45GR                  |  1 PCS |    mm-yyyy | RUSAK FISIK | [ ] | [ ] | [ ] |
 INDOFOOD TABURI BUMBU TABUR SERBAGUNA RASA BARBEKIU 25GR     |  1 PCS | 19-05-2027 | RUSAK FISIK | [ ] | [ ] | [ ] |
+INDOMIE GORENG ORIGINAL 85GR                                 |  1 PCS | 18-12-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
 INDOMIE GORENG RASA RENDANG 91GR                             |  1 PCS | 16-10-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
---------------------------------------------------------------------------------------------------------------------
-[*] BINTANG SARI                                             //                                                    |
-BAWANG GORENG BINTANG 100GR [O0]                             |  1 PCS |    mm-yyyy | RUSAK FISIK | [ ] | [ ] | [ ] |
-BAWANG PUTIH BINTANG 100GR                                   |  1 PCS |    mm-yyyy | RUSAK FISIK | [ ] | [ ] | [ ] |
---------------------------------------------------------------------------------------------------------------------
-[*] PT CAKRA DAYA UNGGUL                                     //                                                    |
-PAMMA MACARONI CRUNCH HOT THAI CHILI SAUCE 100GR [00]        |  1 PCS |    08-2025 |   EXPIRED   | [ ] | [ ] | [ ] |
-PAMMA MACARONI CRUNCH RASA MIE GORENG 100GR [00]             |  1 PCS |    04-2025 |   EXPIRED   | [ ] | [ ] | [ ] |
---------------------------------------------------------------------------------------------------------------------
-[*] CV WANNI SANTOSA                                         //                                                    |
-MANG OLLE ABON IKAN TUNA ORIGINAL 100GR [B][O0]              |  1 PCS | 05-05-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
+POP MIE MI INSTAN CUP RASA BASO 75GR                         |  1 PCS | 16-12-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
 [*] CV SEJATI FOOD SERVICE                                   //                                                    |
 PRIMERA TEPUNG ROTI BUBBLE CRUMB CRISPY 200GR                |  3 PCS | 20-12-2025 |   EXPIRED   | [ ] | [ ] | [ ] |
@@ -133,6 +154,8 @@ MAZZONI BUMBU TABUR RASA BALADO EKSTRA PEDAS 100GR           |  1 PCS | 01-02-20
 --------------------------------------------------------------------------------------------------------------------
 [*] PT CIPTA NIAGA SEMESTA                                   //                                                    |
 ROMA KELAPA CREAM SUSU VANILA 40GR [B] (R)                   |  1 PCS |    09-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
+WAFELLO BUTTER CARAMEL 15GR [B] (W)                          |  1 PCS |    09-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
+WAFELLO BUTTER CARAMEL 43GR [B] (W)                          |  1 PCS |    09-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------
 [*] PT ENAK JAYA MAKMUR-CV SIDODADI JAYA SEJAHTERA           //                                                    |
 ENAK ECO SAMBAL LOMBOK                                       |  1 PCS | 12-10-2025 | RUSAK FISIK | [ ] | [ ] | [ ] |
@@ -142,4 +165,19 @@ GRILL MASTER STEAK HOUSE BURGER 30G                          |  1 PCS | 02-05-20
 --------------------------------------------------------------------------------------------------------------------
 [*] PT BUKIT INTI MAKMUR ABADI                               //                                                    |
 SUNCO MINYAK GORENG SAWIT 2 LITER                            |  1 PCS | 07-04-2028 | RUSAK FISIK | [ ] | [ ] | [ ] |
+--------------------------------------------------------------------------------------------------------------------
+[*] BINTANG SARI                                             //                                                    |
+BAWANG GORENG BINTANG 100GR [O0]                             |  1 PCS |    mm-yyyy | RUSAK FISIK | [ ] | [ ] | [ ] |
+BAWANG PUTIH BINTANG 100GR                                   |  1 PCS |    mm-yyyy | RUSAK FISIK | [ ] | [ ] | [ ] |
+--------------------------------------------------------------------------------------------------------------------
+[*] PT CAKRA DAYA UNGGUL                                     //                                                    |
+PAMMA MACARONI CRUNCH HOT THAI CHILI SAUCE 100GR [00]        |  1 PCS |    08-2025 |   EXPIRED   | [ ] | [ ] | [ ] |
+PAMMA MACARONI CRUNCH RASA MIE GORENG 100GR [00]             |  1 PCS |    04-2025 |   EXPIRED   | [ ] | [ ] | [ ] |
+--------------------------------------------------------------------------------------------------------------------
+[*] CV WANNI SANTOSA                                         //                                                    |
+MANG OLLE ABON IKAN TUNA ORIGINAL 100GR [B][O0]              |  1 PCS | 05-05-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
+--------------------------------------------------------------------------------------------------------------------
+[*] KERUPUK DDN                                              //                                                    |
+DDN KERUPUK GURIH RASA UDANG ISI 10 PCS                      |  1 PCS | 20-04-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
+DDN KERUPUK MERAH RASA TERASI ISI 10 PCS                     |  1 PCS | 15-04-2026 | RUSAK FISIK | [ ] | [ ] | [ ] |
 --------------------------------------------------------------------------------------------------------------------

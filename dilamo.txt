@@ -1,6 +1,6 @@
-   FILE: dilamo.txt
- UPDATE: 20-04-2026 +0700 (version 0.1.0-10420-oye-bb-dilamo-all)
-SHA-256: 6c39c5eb2e075beaa5842317489cfc7f3e154bd7e5303614fc67103b29a52379
+    FILE: dilamo.txt
+  UPDATE: 05-05-2026 +0700 (version 0.1.3-oye-bb-dilamo-all)
+ACCURATE: v1.0.1#4102-1044828 [6Y99MP8ML]
 
 
   ______                             __       __                        __     
@@ -20,9 +20,9 @@ $$    $$/ $$    $$ |$$       |      $$ | $/  $$ |$$    $$ |$$ |        $$  $$/
 ================
      NOTES:     
 ================
- [V] = BARANG SUDAH DIRETUR / BARANG SUDAH DIPINDAHKAN KE GUDANG RETUR ([—]URATE)
- [X] = BARANG TIDAK BISA DIRETUR / BARANG TIDAK (ATAU BELUM) DIPINDAHKAN KE GUDANG RETUR ([—]URATE)
- [—] = BARANG DALAM PROSES RETUR / BARANG DALAM PROSES PEMINDAHAN KE GUDANG RETUR ([—]URATE)
+ [V] = BARANG SUDAH DIRETUR / BARANG SUDAH DIPINDAHKAN KE GUDANG RETUR (ACCURATE)
+ [X] = BARANG TIDAK BISA DIRETUR / BARANG TIDAK (ATAU BELUM) DIPINDAHKAN KE GUDANG RETUR (ACCURATE)
+ [—] = BARANG DALAM PROSES RETUR / BARANG DALAM PROSES PEMINDAHAN KE GUDANG RETUR (ACCURATE)
  [?] = DATA ATAU SYARAT RETUR BARANG BELUM DIPERBARUI
  BTC = NOMOR BATCH
  RTR = RETUR
@@ -34,5 +34,20 @@ $$    $$/ $$    $$ |$$       |      $$ | $/  $$ |$$    $$ |$$ |        $$  $$/
 ------------------------------------------------------------------------------------------------
                       NAMA BARANG                      |    QTY |  EXP DATE  | BTC | RTR | ACC |
 ------------------------------------------------------------------------------------------------
-DILAMO                                                 |  0 PCS |    mm-yyyy | xxx | [—] | [—] |
+DILAMO BEEF BRATWURST 900GR                            |  1 PCS |    09-2026 | 001 | [—] | [—] |
+DILAMO BEEF BREAKFAST 1KG                              |  1 PCS |    09-2026 | 001 | [—] | [—] |
+DILAMO BEEF BREAKFAST 500GR                            |  1 PCS |    09-2026 | 002 | [—] | [—] |
+------------------------------------------------------------------------------------------------
+DILAMO BEEF BRATWURST 900GR                            |  1 PCS |    09-2026 | 002 | [—] | [—] |
+DILAMO BEEF BREAKFAST 1KG                              |  3 PCS |    09-2026 | 002 | [—] | [—] |
+DILAMO BEEF BREAKFAST 500GR                            |  1 PCS |    09-2026 | 002 | [—] | [—] |
+------------------------------------------------------------------------------------------------
+DILAMO BEEF BREAKFAST 500GR                            |  1 PCS |    09-2026 | 003 | [—] | [—] |
+DILAMO BEEF COCKTAIL 900GR                             | 13 PCS |    09-2026 | 003 | [—] | [—] |
+DILAMO BEEF COCKTAIL MERAH 500GR                       |  5 PCS |    08-2026 | 003 | [—] | [—] |
+DILLY SOSIS KEJU 500GR ISI 12PCS                       |  1 PCS |    08-2026 | 003 | [—] | [—] |
+------------------------------------------------------------------------------------------------
+DILAMO BEEF BREAKFAST 1KG                              |  1 PCS |    06-2026 | 004 | [—] | [—] |
+DILAMO BEEF COCKTAIL 900GR                             |  7 PCS |    09-2026 | 004 | [—] | [—] |
+DILAMO BEEF COCKTAIL MERAH 500GR                       | 15 PCS |    08-2026 | 004 | [—] | [—] |
 ------------------------------------------------------------------------------------------------
