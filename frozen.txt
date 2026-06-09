@@ -1,0 +1,109 @@
+    FILE: frozen.txt
+  AUTHOR: GILANG ISKANDAR [20241221127]
+ VERSION: 0.1.0-oye-bb-return-frozen
+    CODE: 0101260906
+   BUILD: MON JUNE 9 23:40:05 +0700 2026
+ACCURATE: v1.0.1#4375-1044828 [6Y99MP8ML]
+
+
+  ______                             __       __                        __     
+ /      \                           /  \     /  |                      /  |    
+/$$$$$$  | __    __   ______        $$  \   /$$ |  ______    ______   _$$ |_   
+$$ |  $$ |/  |  /  | /      \       $$$  \ /$$$ | /      \  /      \ / $$   |  
+$$ |  $$ |$$ |  $$ |/$$$$$$  |      $$$$  /$$$$ | $$$$$$  |/$$$$$$  |$$$$$$/   
+$$ |  $$ |$$ |  $$ |$$    $$ |      $$ $$ $$/$$ | /    $$ |$$ |  $$/   $$ | __ 
+$$ \__$$ |$$ \__$$ |$$$$$$$$/       $$ |$$$/ $$ |/$$$$$$$ |$$ |        $$ |/  |
+$$    $$/ $$    $$ |$$       |      $$ | $/  $$ |$$    $$ |$$ |        $$  $$/ 
+ $$$$$$/   $$$$$$$ | $$$$$$$/       $$/      $$/  $$$$$$$/ $$/          $$$$/  
+          /  \__$$ |                                                           
+          $$    $$/                    𝑷𝑹𝑨𝑲𝑻𝑰𝑺  𝑯𝑬𝑴𝑨𝑻  𝑩𝑬𝑹𝑲𝑼𝑨𝑳𝑰𝑻𝑨𝑺                                        
+           $$$$$$/                                                             
+
+
+================
+  SYMBOL NOTES 
+================
+[*] = NAMA SUPPLIER/VENDOR
+[!] = SUPPLIER/VENDOR YANG PERLU NEGOSIASI UNTUK MELAKUKAN RETUR / TUKAR GULING BARANG
+
+================
+     FROZEN     
+================
+--------------------------------------------------------------------------------------------------
+                        NAMA BARANG                          |    QTY |  EXP DATE  |   KONDISI   |
+--------------------------------------------------------------------------------------------------
+[*][!] PT CHAROEN POKPHAND INDONESIA                         //                                  |
+AKUMO CHICKEN NUGGET 1KG                                     |  2 PCS | 26-01-2027 | RUSAK FISIK |
+AKUMO CHICKEN STICK NUGGET 500GR                             |  2 PCS | 06-03-2027 | RUSAK FISIK |
+ASIMO CHICKEN NUGGET KOMBINASI 1000GR [B]                    |  1 PCS | 05-03-2027 | RUSAK FISIK |
+ASIMO SOSIS AYAM KOMBINASI 1KG [B]                           |  1 PCS | 25-11-2026 | LEPAS VAKUM |
+ASIMO SOSIS AYAM KOMBINASI 500GR [B]                         |  1 PCS | 11-03-2027 | LEPAS VAKUM |
+CHAMP CHICKEN NUGGET HOTZZ 500GR LV5                         |  1 PCS | 08-01-2027 | RUSAK FISIK |
+CHAMP CHICKEN NUGGET KOMBINASI 450GR                         |  1 PCS | 18-02-2027 | RUSAK FISIK |
+CHAMP CHICKEN NUGGET KOMBINASI 900GR                         |  1 PCS | 10-01-2027 | RUSAK FISIK |
+CHAMP CHICKEN NUGGET STICK 250GR                             |  1 PCS | 13-03-2027 |  PENARIKAN  |
+CHAMP CHICKEN SAUSAGE 375 GR                                 |  1 PCS | 07-04-2027 | LEPAS VAKUM |
+CHAMP CHICKEN SAUSAGES 1KG                                   |  2 PCS | 19-12-2026 | LEPAS VAKUM |
+CHAMP CRUNCHY NUGGET 225GR                                   |  2 PCS | 13-02-2027 | RUSAK FISIK |
+--------------------------------------------------------------------------------------------------
+[*][!] PT CHAROEN POKPHAND INDONESIA (FRESH)                 //                                  |
+CP AYAM UTUH GRILLER 07-08 700GR [O8]                        |  5 PCS | 08-01-2027 | RUSAK FISIK |
+CP AYAM UTUH GRILLER 09-10 900GR [O8]                        |  1 PCS | 24-03-2027 |  PENARIKAN  |
+CP CHICKEN AYAM POTONG 10 (1 - 1,1KG) [O8]                   |  2 PCS | 21-01-2027 | RUSAK FISIK |
+--------------------------------------------------------------------------------------------------
+[*][!] PT PANJUNAN - FIESTA                                  //                                  |
+FIESTA CHICKEN KARAGE 400G                                   |  1 PCS | 02-02-2027 | RUSAK FISIK |
+FIESTA CHICKEN SAUSAGE 300GR                                 |  3 PCS | 24-12-2026 | LEPAS VAKUM |
+FIESTA CRISPY BUBBLE 400GR                                   |  1 PCS | 11-02-2027 | RUSAK FISIK |
+FIESTA READY TO SERVE BEEF BULGOGI 300GR                     |  1 PCS | 05-02-2027 | RUSAK FISIK |
+--------------------------------------------------------------------------------------------------
+[*][!] CV VELYN FROZEN & CHILLED                             //                                  |
+BERNARDI HORECA BEEF BREAKFAST 1KG PREMIUM                   |  1 PCS | 23-01-2027 | LEPAS VAKUM |
+BERNARDI HORECA BEEF BREAKFAST VP 1KG                        |  1 PCS | 14-11-2026 | LEPAS VAKUM |
+BERNARDI PLAIN ROLL (ROTI KADET) 300GR                       |  1 PCS | 06-08-2026 | RUSAK FISIK |
+BERNARDI SOSIS COCKTAIL MERAH HORECA 250GR                   |  1 PCS | 02-03-2027 | LEPAS VAKUM |
+RIOUS PIZZA DOUBLE CHEESE 180GR [B]                          |  1 PCS | 12-03-2027 | RUSAK FISIK |
+UMIA-MI SOSIS SAPI ULIR 450GR ISI 50PCS                      |  1 PCS | 05-03-2027 | LEPAS VAKUM |
+VITALIA BURGER SAPI 250GR                                    |  6 PCS | 29-01-2027 | LEPAS VAKUM |
+VITALIA BURGER SAPI 280GR                                    |  7 PCS | 14-02-2027 | LEPAS VAKUM |
+--------------------------------------------------------------------------------------------------
+[*] PT HIJRAH GIZI HEWANI                                    //                                  |
+KANZLER BEEF COCKTAIL 250 GR                                 |  3 PCS | 14-01-2027 | LEPAS VAKUM |
+KANZLER BOCKWURST 360GR                                      |  1 PCS | 26-01-2027 | LEPAS VAKUM |
+KANZLER CHICKEN NUGGET 450GR                                 |  1 PCS | 20-02-2027 |  SAMPLING   |
+KANZLER CRISPY CHICKEN NUGGET 250GR                          |  1 PCS | 17-03-2027 | RUSAK FISIK |
+KANZLER GARLIC FRANKFURTER 300GR ISI 6                       |  3 PCS | 27-01-2027 | LEPAS VAKUM |
+--------------------------------------------------------------------------------------------------
+[*] CV TITAN MEAT INDONESIA                                  //                                  | *PROSES TUKAR GULING
+BOSSCA BASO SPECIAL URAT 500GR ISI 10                        |  1 PCS | 24-03-2027 | RUSAK FISIK |
+BOSSCA BASO URAT MINI 300GR ISI 20                           |  8 PCS | 16-09-2026 |  PENARIKAN  |
+BOSSCA SOSIS BAKAR 500GR ISI 11+1                            |  1 PCS | 20-04-2027 | LEPAS VAKUM |
+BOSSCA SOSIS BAKAR 500GR ISI 6+1                             |  4 PCS | 24-03-2027 | LEPAS VAKUM |
+BOSSCA SOSIS SAPI KEJU 500GR ISI 10                          |  2 PCS | 26-04-2027 | LEPAS VAKUM |
+--------------------------------------------------------------------------------------------------
+[*] PT BOLESCA FOODINDO                                      //                                  |
+DELI MAX SMOKED BEEF 500GR [B]                               |  3 PCS |    11-2026 | LEPAS VAKUM |
+MISTER MAX SOSIS BAKAR ISI 10+2 500GR                        | 31 PCS |    11-2026 | LEPAS VAKUM |
+MISTER MAX SOSIS BAKAR ISI 6+2 500GR                         |  4 PCS |    11-2026 | LEPAS VAKUM |
+--------------------------------------------------------------------------------------------------
+[*] PT ANUGERAH BOGA FROZINDO                                //                                  |
+SUMBER SELERA BAKSO SERBAGUNA 650GR ISI 50 BUTIR             |  1 PCS | 05-09-2026 | RUSAK FISIK |
+--------------------------------------------------------------------------------------------------
+[*] PT NUTRINDO RANA SEJAHTERA                               //                                  |
+AYOMA KORNET COIN 450GR ISI 40 [B]                           |  1 PCS | 14-04-2027 | LEPAS VAKUM |
+AYOMA ROLADE SAPI 225GR                                      |  2 PCS | 16-04-2027 | LEPAS VAKUM |
+--------------------------------------------------------------------------------------------------
+[*][!] CV KREASI INTI USAHA                                  //                                  |
+CEDEA STEAMBOAT 300GR                                        |  1 PCS |    03-2027 | RUSAK FISIK |
+TAMMA TORTILLA UK 20 ISI 20 LEMBAR 900 GR                    |  1 PCS | 02-01-2026 | RUSAK FISIK |
+TAMMA TORTILLA UK 23 ISI 20 LEMBAR 1100 GR                   |  1 PCS | 01-01-2027 | RUSAK FISIK |
+TAMMA TORTILLA UK 25 ISI 20 LEMBAR 1400GR                    |  1 PCS | 22-01-2027 | RUSAK FISIK |
+--------------------------------------------------------------------------------------------------
+[*][!] CV PERMATA SEJAHTERA                                  //                                  |
+IDAHO BATTER COATED 1KG                                      |  3 PCS | 27-01-2027 | RUSAK FISIK |
+IDAHO BATTER COATED 2 KG TRANSPARAN PACK                     |  3 PCS | 03-06-2028 | RUSAK FISIK |
+IKAN DORI FILLET / PATIN NBL 30% CURAH 1KG ISI 4 [O8]        |  1 PCS | 28-04-2027 | RUSAK FISIK |
+--------------------------------------------------------------------------------------------------
+[*][!] PT JAPFA FOOD INDONESIA-SGF                           //                                  |
+SO GOOD AYAM UTUH POTONG 10 [O8]                             |  1 PCS | 07-12-2026 | RUSAK FISIK |
+--------------------------------------------------------------------------------------------------
